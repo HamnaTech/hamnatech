@@ -7,4 +7,4 @@ When I’m not coding, I’m probably sketching ideas, learning new tools, or bi
 
 #### Fun Facts:
 * I don't like watching movies.
-* I enjoy long walks when taking a break from screens.
+* I enjoy reading blogs and articles when I'm free
