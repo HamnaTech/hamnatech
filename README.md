@@ -3,7 +3,7 @@
 I’m [**Hamna**](https://www.hamna.tech), a design engineer and web developer.
 
 I love designing clean interfaces and building cool things for the web.
-When I’m not coding, I’m probably sketching ideas, learning new tools, or binge-watching random YouTube videos.
+When I’m not coding, I’m probably  binge-watching random YouTube videos.
 
 #### Fun Facts:
 * I don't like watching movies.
