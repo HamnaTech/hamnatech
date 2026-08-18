@@ -23,13 +23,7 @@
 
 ## 🌙 About Me
 
-💻 Full-Stack Developer
-🎨 UI/UX Designer
-⚡ Building modern web experiences
-🤖 Exploring AI & SaaS
-🚀 Turning ideas into real products
-
----
+I binge-watch random YouTube videos whenever I'm free
 
 ## ⚔️ Tech Arsenal
 
