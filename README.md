@@ -40,32 +40,4 @@ AI-powered friction analytics platform helping teams discover where users strugg
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HamnaTech&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamnaTech&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="160"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a> • <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> • <a href="YOUR_FIVERR_URL">💚 Fiverr</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ✦ `BUILD • CREATE • EXPLORE` ✦
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00FF&height=100&section=footer"/>
-
-</div>
