@@ -26,14 +26,13 @@
 I binge-watch random YouTube videos whenever I'm free
 
 ##  Tech Arsenal
+⚔️ Tech Arsenal
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,nestjs,postgres,prisma,redis,git,github,figma"/>
+<pre> ╭─────────────────────────────────────────────╮ │ │ │ 🌐 FRONTEND │ │ │ │ React • TypeScript • JavaScript │ │ Tailwind CSS • Framer Motion │ │ │ │ 🧪 BACKEND │ │ │ │ Node.js • NestJS • PostgreSQL │ │ Prisma • Redis │ │ │ │ 🎨 DESIGN │ │ │ │ Figma • UI/UX │ │ │ │ 🛠️ TOOLS │ │ │ │ Git • GitHub • VS Code • Vercel │ │ │ ╰─────────────────────────────────────────────╯ </pre>
 
-</p>
-
----
+</div>
 
 ##  Current Quest
 
