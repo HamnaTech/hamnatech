@@ -26,7 +26,7 @@
 I binge-watch random YouTube videos whenever I'm free
 
 ##  Tech Arsenal
-⚔️ Tech Arsenal
+
 
 <div align="center">
 
