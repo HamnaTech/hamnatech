@@ -56,14 +56,5 @@ I binge-watch random YouTube videos whenever I'm free
 
 </div>
 
-##  Current Quest
-
-###  FlowLens AI
-
-AI-powered friction analytics platform helping teams discover where users struggle.
-
-`React` `TypeScript` `NestJS` `PostgreSQL` `Prisma` `Redis` `AI`
-
----
 
 
