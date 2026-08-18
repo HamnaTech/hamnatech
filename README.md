@@ -21,11 +21,11 @@
 
 ---
 
-## 🌙 About Me
+##  About Me
 
 I binge-watch random YouTube videos whenever I'm free
 
-## ⚔️ Tech Arsenal
+##  Tech Arsenal
 
 <p align="center">
 
@@ -35,9 +35,9 @@ I binge-watch random YouTube videos whenever I'm free
 
 ---
 
-## 🗡️ Current Quest
+##  Current Quest
 
-### 🔥 FlowLens AI
+###  FlowLens AI
 
 AI-powered friction analytics platform helping teams discover where users struggle.
 
