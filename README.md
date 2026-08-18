@@ -4,7 +4,7 @@
 
 # H A M N A   T E C H
 
-### ✦ FULL-STACK DEVELOPER • UI/UX DESIGNER ✦
+
 
 · · · · · · · · · · · · · · · · · · · · · ·
 
