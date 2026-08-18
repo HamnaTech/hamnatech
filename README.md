@@ -11,7 +11,7 @@
 </div>
 <div align="center">
 
-# 🌌 HAMNA TECH
+
 
 ### `FULL-STACK DEVELOPER` • `UI/UX DESIGNER`
 
