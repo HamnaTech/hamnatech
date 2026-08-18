@@ -1,8 +1,14 @@
-· · · · · · · · · · · · · · · · · · · ·
+<div align="center">
 
-        H A M N A   T E C H
+· · · · · · · · · · · · · · · · · · · · · ·
 
-· · · · · · · · · · · · · · · · · · · ·
+# H A M N A   T E C H
+
+### ✦ FULL-STACK DEVELOPER • UI/UX DESIGNER ✦
+
+· · · · · · · · · · · · · · · · · · · · · ·
+
+</div>
 <div align="center">
 
 # 🌌 HAMNA TECH
