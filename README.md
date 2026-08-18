@@ -30,7 +30,29 @@ I binge-watch random YouTube videos whenever I'm free
 
 <div align="center">
 
-<pre> ╭─────────────────────────────────────────────╮ │ │ │ 🌐 FRONTEND │ │ │ │ React • TypeScript • JavaScript │ │ Tailwind CSS • Framer Motion │ │ │ │ 🧪 BACKEND │ │ │ │ Node.js • NestJS • PostgreSQL │ │ Prisma • Redis │ │ │ │ 🎨 DESIGN │ │ │ │ Figma • UI/UX │ │ │ │ 🛠️ TOOLS │ │ │ │ Git • GitHub • VS Code • Vercel │ │ │ ╰─────────────────────────────────────────────╯ </pre>
+<pre>
+╭─────────────────────────────────────────────╮
+│                                             │
+│                🌐 FRONTEND                  │
+│                                             │
+│       React • TypeScript • JavaScript       │
+│       Tailwind CSS • Framer Motion          │
+│                                             │
+│                 🧪 BACKEND                 │
+│                                             │
+│       Node.js • NestJS • PostgreSQL        │
+│              Prisma • Redis                │
+│                                             │
+│                 🎨 DESIGN                  │
+│                                             │
+│                 Figma • UI/UX              │
+│                                             │
+│                 🛠️ TOOLS                  │
+│                                             │
+│       Git • GitHub • VS Code • Vercel      │
+│                                             │
+╰─────────────────────────────────────────────╯
+</pre>
 
 </div>
 
