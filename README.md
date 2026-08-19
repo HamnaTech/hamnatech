@@ -13,7 +13,7 @@
 
 
 
-### `FULL-STACK DEVELOPER` • `UI/UX DESIGNER`
+### `FULL-STACK DEVELOPER` 
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+digital+worlds+%E2%9C%A8;Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+%2B+Code+%F0%9F%8E%A8;Exploring+AI+%26+SaaS+%F0%9F%A4%96"/>
 
